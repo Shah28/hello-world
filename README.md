@@ -1,2 +1,3 @@
 # hello-world
-Just for coding
+
+print("hello world!")
